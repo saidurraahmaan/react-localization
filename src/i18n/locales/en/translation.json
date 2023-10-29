@@ -1,0 +1,11 @@
+{
+  "home": "Home",
+  "page2": "Page 2",
+  "title": "Welcome to react using react-i18next",
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.{{go}}",
+    "part2": "Switch language between english and german using buttons above."
+  },
+  "checking": "checking",
+  "details":"hello"
+}
